@@ -1,0 +1,7 @@
+view,rows,revenue
+Net merchandise revenue,536423,9792708.88
+  of which rows without CustomerID,131586,1506045.56
+Customer-analysis net revenue,404837,8286663.32
+Sensitivity: exact duplicates in net merchandise (kept),5257,21390.72
+Sensitivity: extreme sales + their reversing cancellations,110,788.4
+Sensitivity: pattern B repeat invoices awaiting review (kept),114,3035.88

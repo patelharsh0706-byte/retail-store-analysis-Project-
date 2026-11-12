@@ -1,0 +1,13 @@
+step,category_rows,category_revenue,effect_on_total,running_rows,running_revenue
+"Total, all rows as loaded",541909,9747747.93,,541909,9747747.93
+Exclude: Exact duplicates removed,0,0.0,-0.0,541909,9747747.93
+Exclude: Accounting adjustments (bad debt),3,-11062.06,11062.06,541906,9758809.99
+"Exclude: Non-product charges (postage, fees, manual...)",2359,384189.42,-384189.42,539547,9374620.57
+Exclude: Non-product cancellations,584,-418088.31,418088.31,538963,9792708.88
+"Exclude: Stock adjustments (write-offs, notes)",2464,0.0,-0.0,536499,9792708.88
+Exclude: Corrected double entries: extra copies (product lines),38,3343.76,-3343.76,536461,9789365.12
+Exclude: Corrected double entries: their correcting cancellations (product lines),38,-3343.76,3343.76,536423,9792708.88
+= Net merchandise revenue,536423,9792708.88,,536423,9792708.88
+Exclude: Matched product cancellations,7470,-448859.58,448859.58,528953,10241568.46
+Exclude: Unmatched product cancellations,1196,-26520.84,26520.84,527757,10268089.3
+= Gross merchandise sales,527757,10268089.3,,527757,10268089.3

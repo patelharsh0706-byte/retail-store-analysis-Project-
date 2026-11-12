@@ -1,0 +1,10 @@
+step,rows,revenue
+All rows in prepared file,541909,9747747.934
+Excluded: missing CustomerID,135080,1447682.12
+Excluded (ID present): non-product charges,1550,150341.251
+Excluded (ID present): non-product cancellations,366,-136938.76
+Excluded (ID present): stock adjustments,0,0.0
+Excluded (ID present): bad-debt adjustments,0,0.0
+Excluded (ID present): corrected double entries (copy + its cancellation),76,-8.526512829121202e-14
+Excluded: confirmed duplicates (dup_removed),0,0.0
+= Customer-analysis rows (in_customer_analysis),404837,8286663.323000001

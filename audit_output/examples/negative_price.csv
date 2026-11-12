@@ -1,0 +1,3 @@
+source_row,InvoiceNo,StockCode,Description,Quantity,InvoiceDate,UnitPrice,CustomerID,Country
+299985,A563186,B,Adjust bad debt,1,2011-08-12 14:51:00,-11062.06,,United Kingdom
+299986,A563187,B,Adjust bad debt,1,2011-08-12 14:52:00,-11062.06,,United Kingdom

@@ -1,0 +1,11 @@
+InvoiceNo,StockCode,Description_std,Quantity,UnitPrice,line_revenue,CustomerID,Country,qty_extreme_reason
+581483,23843,"PAPER CRAFT , LITTLE BIRDIE",80995,2.08,168469.6,16446,United Kingdom,sale_reversed_by_cancellation
+541431,23166,MEDIUM CERAMIC TOP STORAGE JAR,74215,1.04,77183.6,12346,United Kingdom,sale_reversed_by_cancellation
+573008,84077,WORLD WAR 2 GLIDERS ASSTD DESIGNS,4800,0.21,1008.0,12901,United Kingdom,bulk_order_not_reversed
+554868,22197,SMALL POPCORN HOLDER,4300,0.72,3096.0,13135,United Kingdom,bulk_order_not_reversed
+544612,22053,EMPIRE DESIGN ROSETTE,3906,0.82,3202.92,18087,United Kingdom,bulk_order_not_reversed
+560599,18007,ESSENTIAL BALM 3.5g TIN IN ENVELOPE,3186,0.06,191.16,14609,United Kingdom,bulk_order_not_reversed
+540815,21108,FAIRY CAKE FLANNEL ASSORTED COLOUR,3114,2.1,6539.400000000001,15749,United Kingdom,sale_reversed_by_cancellation
+550461,21108,FAIRY CAKE FLANNEL ASSORTED COLOUR,3114,2.1,6539.400000000001,15749,United Kingdom,bulk_order_not_reversed
+573995,16014,SMALL CHINESE STYLE SCISSOR,3000,0.32,960.0,16308,United Kingdom,bulk_order_not_reversed
+536830,84077,WORLD WAR 2 GLIDERS ASSTD DESIGNS,2880,0.18,518.4,16754,United Kingdom,bulk_order_not_reversed

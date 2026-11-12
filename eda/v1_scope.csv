@@ -1,0 +1,12 @@
+item,value
+Line items,527723
+Invoices (orders),19764
+Customers (with ID),4334
+Products (StockCodes),3799
+Countries,38
+First / last date,2010-12-01 / 2011-12-09
+Gross revenue,"10,268,089.30"
+Lines without CustomerID,"131,421 (24.9%)"
+Exact-duplicate lines kept,"5,221"
+Extreme-quantity lines kept,"1,501"
+Pattern B review lines kept,114

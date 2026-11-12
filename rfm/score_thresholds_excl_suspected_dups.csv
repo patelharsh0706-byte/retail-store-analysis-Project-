@@ -1,0 +1,6 @@
+score,recency_days_rule,recency_days_observed,frequency_rule,monetary_rule,customers_R,customers_F,customers_M
+5,≤ 15,1 – 15,6+ orders,"> £1,994.91",905,865,867
+4,> 15 and ≤ 33,16 – 33,4–5 orders,"> £903.56 and ≤ £1,994.91",840,629,867
+3,> 33 and ≤ 72,34 – 72,3 orders,> £466.11 and ≤ £903.56,865,504,866
+2,> 72 and ≤ 180,73 – 180,2 orders,> £239.97 and ≤ £466.11,861,831,867
+1,> 180,181 – 374,1 order,≤ £239.97 (incl. all ≤ 0),863,1505,867

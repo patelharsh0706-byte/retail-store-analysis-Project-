@@ -1,0 +1,12 @@
+item,value
+Scored customers,4334
+Cancellation-only customers (not scored),29
+Scored customers with net revenue < 0,2
+Scored customers with net revenue = 0,12
+Scored customers with any unmatched cancellation,317
+"Unmatched cancellations, scored customers (£)",-18277.01
+"Unmatched cancellations, cancellation-only customers (£)",-3922.98
+"Matched cancellations, cancellation-only customers (£)",0.0
+Scored customers first seen in first 30 days (history may start earlier),884
+Customers with orders in more than one country,8
+Reference date,2011-12-10

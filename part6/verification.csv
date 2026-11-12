@@ -1,0 +1,11 @@
+claim,verified_value,source_file,definition,status,note
+Net merchandise revenue £9.79m,"£9,792,708.88",prepared/revenue_reconciliation.csv,"Product sales + free items + product cancellations (matched & unmatched); excludes non-product charges, stock & bad-debt adjustments, corrected double entries; includes rows without CustomerID",Verified,
+"Champions 909 customers, 66%","909 customers; 66.02% (£5,470,740.15)",rfm/segment_summary.csv,"Share of ATTRIBUTABLE net revenue (customers with an ID) = £8,286,663.32, not of £9.79m",Verified — base must be stated,As a share of total net merchandise (£9.79m) it is 55.9%
+"At-Risk High-Value 403 customers, 9.1%","403 customers; 9.11% (£755,126.87)",rfm/segment_summary.csv,"Share of ATTRIBUTABLE net revenue (customers with an ID) = £8,286,663.32, not of £9.79m",Verified — base must be stated,As a share of total net merchandise (£9.79m) it is 7.7%
+"Potential Loyalists 485 customers, 4.9%","485 customers; 4.93% (£408,713.81)",rfm/segment_summary.csv,"Share of ATTRIBUTABLE net revenue (customers with an ID) = £8,286,663.32, not of £9.79m",Verified — base must be stated,As a share of total net merchandise (£9.79m) it is 4.2%
+UK 84.77% of net revenue,"84.77% (£8,301,718.28)",eda/part3b/country_comparison.csv,Share of total net merchandise revenue (incl. rows without ID),Verified,
+Germany £201k and 94 customers,"£200,808.40; 94 customers",eda/part3b/country_comparison.csv,Net merchandise revenue; customers = IDs with ≥1 valid purchase,Verified,Germany shows 95 customers in the net view because 1 customer only cancelled
+France £182k and 87 customers,"£182,163.39; 87 customers",eda/part3b/country_comparison.csv,Net merchandise revenue; customers = IDs with ≥1 valid purchase,Verified,
+"Netherlands £283k, 98.34% top-customer concentration","£283,479.54; top customer 98.34%",eda/part3b/country_comparison.csv,Largest customer's net ÷ country net revenue,Verified,
+Cancellation rate 4.6%,4.63%,eda/v2_net_summary.csv,"Product cancellations ÷ gross merchandise sales, by value",Verified — but misleading without context,"Two fully reversed orders (80,995 and 74,215 units, £245,653) are 51.7% of cancelled value; see recovery table"
+November net revenue £1.43m,"£1,432,734.99",eda/v2_monthly.csv,"Net merchandise revenue, invoices dated Nov 2011",Verified,Single year: peak cannot be called seasonal

@@ -1,0 +1,6 @@
+item,value
+Customers in net view,4363
+Customers who cancelled at least once,1531
+Customers with net revenue < 0,31
+Customers with net revenue = 0,13
+Customers who only cancelled (no sale in file),29

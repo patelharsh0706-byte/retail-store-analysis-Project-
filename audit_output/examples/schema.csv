@@ -1,0 +1,10 @@
+column,dtype
+source_row,int64
+InvoiceNo,str
+StockCode,str
+Description,str
+Quantity,int64
+InvoiceDate,datetime64[us]
+UnitPrice,float64
+CustomerID,float64
+Country,str

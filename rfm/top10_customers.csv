@@ -1,0 +1,11 @@
+CustomerID,net_revenue,frequency,recency_days,country,segment,RFM
+14646,278778.02,72,2.0,Netherlands,Champions,555
+18102,259657.3,60,1.0,United Kingdom,Champions,555
+17450,189735.53,46,9.0,United Kingdom,Champions,555
+14911,128882.13,197,2.0,EIRE,Champions,555
+12415,123638.18,20,25.0,Australia,Champions,455
+14156,113855.32,54,10.0,EIRE,Champions,555
+17511,88138.2,31,3.0,United Kingdom,Champions,555
+16684,65920.12,28,5.0,United Kingdom,Champions,555
+13694,62924.1,50,4.0,United Kingdom,Champions,555
+15311,59419.34,91,1.0,United Kingdom,Champions,555

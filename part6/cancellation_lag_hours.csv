@@ -1,0 +1,7 @@
+cancel_class,count,mean,std,min,50%,max
+A. Full reversal of an extreme-quantity order,54.0,502.32,813.94,0.02,69.9,3022.97
+B. Within 24h of purchase,777.0,3.54,7.26,0.0,0.3,23.95
+C1. 1–30 days after purchase,5048.0,248.87,169.16,24.18,193.78,719.42
+C2. More than 30 days after purchase,1591.0,2117.86,1548.34,720.18,1486.0,8836.5
+D. No earlier purchase in file (likely pre-window),0.0,,,,,
+E. No CustomerID (cannot be traced),0.0,,,,,

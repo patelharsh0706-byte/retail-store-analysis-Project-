@@ -1,0 +1,11 @@
+check,passed,detail
+All required flag columns present,True,17 columns
+Exact duplicates flagged,True,"5,268 rows"
+Duplicates removed under agreed rule (expected 0),True,0
+Every repeat-invoice row has a pattern,True,30 groups
+Corrected double entries: copies = correcting cancellations,True,39 each
+Corrected double entries net to zero,True,0.00
+No corrected double entry inside merchandise or net views,True,0 rows
+No stock adjustment / non-product row in either view,True,0 rows
+"Pattern B review rows kept (flagged, not excluded)",True,114 rows
+Net and gross totals match revenue_reconciliation.csv,True,"net 9,792,708.88 / gross 10,268,089.30"

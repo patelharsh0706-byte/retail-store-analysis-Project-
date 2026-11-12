@@ -1,0 +1,5 @@
+item,revenue,difference_vs_part2
+"Customer-analysis net revenue (revenue_views.csv, Part 2)",8286663.32,0.0
+"Sum of Monetary, scored customers",8290586.300000001,3922.980000000447
+"Sum of net revenue, cancellation-only customers",-3922.9800000000005,-8290586.300000001
+Total across all customers,8286663.32,0.0

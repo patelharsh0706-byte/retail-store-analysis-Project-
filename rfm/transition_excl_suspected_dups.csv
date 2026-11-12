@@ -1,0 +1,7 @@
+segment_base,Champions,Loyal Customers,At-Risk High-Value,Potential Loyalists,New or Occasional,Low-Engagement
+Champions,907,2,0,0,0,0
+Loyal Customers,0,379,0,0,0,0
+At-Risk High-Value,0,0,403,0,0,0
+Potential Loyalists,0,0,0,485,0,0
+New or Occasional,0,0,0,0,837,0
+Low-Engagement,0,0,2,0,0,1319

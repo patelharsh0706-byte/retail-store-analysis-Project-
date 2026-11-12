@@ -1,0 +1,8 @@
+item,value
+Suspected-duplicate rows removed in test A,5277.0
+Revenue on those rows (£),22704.33
+Customers affected (have ≥1 such row),961.0
+"Customers changing segment, test A",4.0
+"Share of scored customers changing segment, test A (%)",0.09
+"Customers changing segment, test B (M excl. unmatched)",1.0
+"Share changing segment, test B (%)",0.02
